@@ -19,6 +19,13 @@ Generate:
 $ hexo generate
 ```
 
+Create first post:
+
+``` bash
+$ hexo new "Hello world"
+$ hexo publish "Hello world"
+```
+
 Run server:
 
 ``` bash
