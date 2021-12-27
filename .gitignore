@@ -1,5 +1,6 @@
 node_modules
 public
-source
+source/_posts
+source/_drafts
 
 db.json
