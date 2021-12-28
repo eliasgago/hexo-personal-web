@@ -1,22 +1,22 @@
 # Header
-navname: Elías Gago
+navname: John Doe
 laguage: es
 
 # navigatior items
 nav:
-  Blog: /archives
-  Categorías: /category
-  Etiquetas: /tag
-  Quen son: /about
+  blog: /archives
+  categories: /category
+  tags: /tag
+  about: /about
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Elías Gago
+nickname: John Doe
 
 ### this variable is MarkDown form.
-description: Rural · Remoto · Tecnoloxía
+description: Personal description
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -36,8 +36,8 @@ links:
   # AliPay:
   # ZhiHu:
   # FaceBook:
-  Twitter: http://twitter.com/eliasgago
-  LinkedIn: https://www.linkedin.com/in/el%C3%ADas-gago-figueroa/
+  Twitter: http://twitter.com/johndoe
+  LinkedIn: https://www.linkedin.com/in/johndoe/
   # Skype:
   # CodeSandBox:
   # CodePen:
@@ -50,7 +50,7 @@ links:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/eliasgago
+  Github: https://github.com/johndoe
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
